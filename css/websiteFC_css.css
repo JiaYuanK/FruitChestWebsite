@@ -1,0 +1,22 @@
+body{color: black; background-color: beige;}
+nav{ background-color: #A07855FF;display: flex;
+}
+
+main{font-size: 30px;}
+footer{background-color:#D4B996FF;}
+.logo{width: 150px;}
+
+.promotion{width: 100%;
+height: auto;}
+.promotion2{width: 20%;
+    height: auto;}
+nav a{display: inline;
+    font-size: 50px;}
+.product{display: flex;}
+.product>div{flex:2;}
+    
+    
+     
+
+    
+   

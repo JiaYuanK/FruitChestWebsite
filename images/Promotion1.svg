@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="453.57144mm"
+   height="245.68451mm"
+   viewBox="0 0 453.57144 245.6845"
+   version="1.1"
+   id="svg56"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Promotion1.svg">
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="902.85716"
+     inkscape:cy="702.85715"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1431"
+     inkscape:window-height="1030"
+     inkscape:window-x="441"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata53">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(133.04762,7.5595236)">
+    <rect
+       style="fill:#de8787;stroke-width:0.264583"
+       id="rect68"
+       width="453.57144"
+       height="245.68451"
+       x="-133.04762"
+       y="-7.5595236" />
+    <rect
+       style="fill:#d35f5f;stroke-width:0.203462"
+       id="rect74"
+       width="423.33331"
+       height="46.890289"
+       x="-114.90476"
+       y="177.62756" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6605px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.441513"
+       x="-28.869976"
+       y="178.13939"
+       id="text72"
+       transform="scale(0.85307331,1.1722322)"><tspan
+         sodipodi:role="line"
+         id="tspan70"
+         x="-28.869976"
+         y="178.13939"
+         style="stroke-width:0.441513">A new Chest of Fruits is coming soon!</tspan><tspan
+         sodipodi:role="line"
+         x="-28.869976"
+         y="200.21501"
+         style="stroke-width:0.441513"
+         id="tspan101" /></text>
+    <rect
+       style="fill:#280b0b;stroke-width:0.264583"
+       id="rect78"
+       width="243.41666"
+       height="64.255951"
+       x="-17.386906"
+       y="103.56547" />
+    <ellipse
+       style="fill:#280b0b;stroke-width:0.268348"
+       id="path80"
+       cx="103.94344"
+       cy="100.91965"
+       rx="122.0863"
+       ry="23.8125" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.0831954"
+       id="rect84"
+       width="3.7797627"
+       height="84.728561"
+       x="27.970238"
+       y="83.092865"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.0831953"
+       id="rect84-7"
+       width="3.779763"
+       height="84.728569"
+       x="173.49107"
+       y="82.367859"
+       ry="0" />
+  </g>
+</svg>
